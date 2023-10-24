@@ -1,0 +1,15 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "API routes for a social network",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  }
+}
